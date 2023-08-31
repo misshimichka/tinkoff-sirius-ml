@@ -2,6 +2,7 @@
 
 ## Небольшая документация
 Использованные модели: `tinkoff-ai/ruDialoGPT-small`, `tinkoff-ai/ruDialoGPT-medium`, `ruT5-base`
+
 Веса моделей: [Ссылка](https://drive.google.com/drive/folders/1VNivVZygJDDMCP9ALHss6lUoDD7oBaTg?usp=sharing)
 
 Процесс обучения:
