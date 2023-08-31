@@ -1,6 +1,10 @@
 # Чат-бот для отбора на интенсив от Тинькофф в Сириусе
 
 ## Небольшая документация
+
+Датасет: сообщения из чатов олимпиад школьников (дисклеймер: модель время от времени токсичит, давайте ее поймем и простим)
+
+
 Использованные модели: `tinkoff-ai/ruDialoGPT-small`, `tinkoff-ai/ruDialoGPT-medium`, `ruT5-base`
 
 Веса моделей: [Ссылка](https://drive.google.com/drive/folders/1VNivVZygJDDMCP9ALHss6lUoDD7oBaTg?usp=sharing)
